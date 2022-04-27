@@ -7,8 +7,6 @@ author: "Легиньких Галина Андреевна"
 ## Generic otions
 lang: ru-RU
 toc-title: "Содержание"
-
-
 ## Pdf output format
 toc: true # Table of contents
 toc-depth: 2
