@@ -42,7 +42,7 @@ section-titles: true
 
 **1.** Для начала я скачала Visual Studio Code. В нем можно удобно отслеживать изменения.(рис. [-@fig:001])
 
-![Visual Studio Cide](images/1.png){ #fig:001 width=70% }
+![Visual Studio Code](images/1.png){ #fig:001 width=70% }
 
 ##
 

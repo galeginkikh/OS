@@ -88,7 +88,7 @@ https://github.com/lierdakil/pandoc-crossref/releases.
 
 **1.** Для начала я скачала Visual Studio Code. В нем можно удобно отслеживать изменения.(рис. [-@fig:001])
 
-![Studio Cide](image/1.png){ #fig:001 width=70% }
+![Studio Code](image/1.png){ #fig:001 width=70% }
 
 **2.** Воспользовалась шаблоном с githab.(рис. [-@fig:002])
 
@@ -110,10 +110,10 @@ https://github.com/lierdakil/pandoc-crossref/releases.
 
 ![Pandoc](image/6.png){ #fig:006 width=70% }
 
- # Вывод
+# Вывод
 
  Я научилась оформлять отчёт с помощью легковесного языка разметки Markdown.
 
- # Контрольные вопросы 
+# Контрольные вопросы 
 
  (Не предусмотренны)
