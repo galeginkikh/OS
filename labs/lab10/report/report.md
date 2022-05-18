@@ -7,11 +7,6 @@ author: "Легиньких Галина Андреевна НФИбд-02-21"
 ## Generic otions
 lang: ru-RU
 toc-title: "Содержание"
-
-## Bibliography
-bibliography: bib/cite.bib
-csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
-
 ## Pdf output format
 toc: true # Table of contents
 toc-depth: 2
@@ -25,8 +20,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-	- spelling=modern
-	- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -65,6 +60,7 @@ header-includes:
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
+
 
 # Цель работы
 
